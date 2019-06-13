@@ -1,6 +1,6 @@
 # peliculas
 
-A new Flutter project.
+A new Flutter project. API themoviedb
 
 ## Getting Started
 
